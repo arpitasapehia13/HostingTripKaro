@@ -1,0 +1,17 @@
+Non relational and NOSQL DB :- MongoDB
+Relational and SQL DB:-POSTGRES DB
+
+In MongoDB data is stored as collection.It store data as BSON object.
+Data is stored in MongoDB in two form: 1.Locally in our PC 2. Cloud Hosted
+
+
+Mongooose ODM :- Object Data Modelling library .It main purpose is to connet node.js + express.js with MongoDB.
+
+1.Router:Controller call Router
+2.Controller:Model call Controller.Has access of response and request
+3.Service:Model is called by Service
+4.Model:Responsible Communication between code and database{MongoDB}
+
+MCP = Model Controller Page
+
+
